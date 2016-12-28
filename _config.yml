@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Nhat Ton"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.jpg"
   bio              : "BA graduated looking for Android dev job."
   location         : "HCM city, VN"
   email            : "minhnhattonthat@gmail.com"
