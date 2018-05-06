@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Android Noob"
+title                    : "Android Developer"
 title_separator          : "-"
 name                     : "Nhat Ton"
-description              : "BA graduated looking for Android dev job."
+description              : "Android Developer who wants to learn new things everyday. Make apps great a...s always"
 url                      : "https://minhnhattonthat.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "minhnhattonthat/minhnhattonthat.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -98,7 +98,7 @@ author:
   linkedin         :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : "8575792/nhật-tôn"
   steam            :
   tumblr           :
   twitter          :
